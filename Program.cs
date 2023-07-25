@@ -15,14 +15,12 @@ public class Sistema_de_Login
 
         int senha;
 
-        int tentativas;
-
         Console.WriteLine("Você deseja acessar o programa?");
         acesso = Console.ReadLine();    
 
        for(int i = 0; i < 5; i++) {
 
-            if (acesso == "Sim")
+            if (acesso == "Sim" ^ acesso == "SIM")
             {
                 Console.WriteLine("informe seu usuário");
                 usuário = Console.ReadLine();
@@ -47,6 +45,7 @@ public class Sistema_de_Login
             else
             {
                 Console.WriteLine("Até mais");
+                break;
             }
 
         }
