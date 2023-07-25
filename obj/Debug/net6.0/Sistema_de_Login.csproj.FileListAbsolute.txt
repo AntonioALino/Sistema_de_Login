@@ -1,0 +1,15 @@
+D:\C#\JogoNúmeros\Sistema_de_Login\bin\Debug\net6.0\Sistema_de_Login.exe
+D:\C#\JogoNúmeros\Sistema_de_Login\bin\Debug\net6.0\Sistema_de_Login.deps.json
+D:\C#\JogoNúmeros\Sistema_de_Login\bin\Debug\net6.0\Sistema_de_Login.runtimeconfig.json
+D:\C#\JogoNúmeros\Sistema_de_Login\bin\Debug\net6.0\Sistema_de_Login.dll
+D:\C#\JogoNúmeros\Sistema_de_Login\bin\Debug\net6.0\Sistema_de_Login.pdb
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\Sistema_de_Login.csproj.AssemblyReference.cache
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\Sistema_de_Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\Sistema_de_Login.AssemblyInfoInputs.cache
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\Sistema_de_Login.AssemblyInfo.cs
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\Sistema_de_Login.csproj.CoreCompileInputs.cache
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\Sistema_de_Login.dll
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\refint\Sistema_de_Login.dll
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\Sistema_de_Login.pdb
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\Sistema_de_Login.genruntimeconfig.cache
+D:\C#\JogoNúmeros\Sistema_de_Login\obj\Debug\net6.0\ref\Sistema_de_Login.dll
